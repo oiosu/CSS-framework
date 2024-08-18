@@ -1,4 +1,5 @@
-![image-20240818191406617](../../../../AppData/Roaming/Typora/typora-user-images/image-20240818191406617.png)
+![image](https://github.com/user-attachments/assets/661a736b-d279-411b-a8bc-0f00ae6c354e)
+
 
 ```html
 <div id="root">
@@ -8,7 +9,8 @@
 </div>
 ```
 
-![image-20240818191629929](../../../../AppData/Roaming/Typora/typora-user-images/image-20240818191629929.png)
+![image](https://github.com/user-attachments/assets/4f070461-e98a-4f61-aae5-c3d1ee9aa74d)
+
 
 ```scss
 * {
