@@ -50,4 +50,4 @@ grid-area는 Grid Container가 아닌 Grid Item에 적용하는 속성입니다.
 
 
 
-![image-20240818191744977](../../../../AppData/Roaming/Typora/typora-user-images/image-20240818191744977.png)
+![image](https://github.com/user-attachments/assets/99129f1b-c45a-4512-9fd0-93612691523d)
