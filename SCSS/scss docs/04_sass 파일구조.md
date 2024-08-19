@@ -2,7 +2,7 @@
 
 | (1)                                                          | (2)                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![image-20240818152704847](../../../../AppData/Roaming/Typora/typora-user-images/image-20240818152704847.png) | ![image-20240818152646343](../../../../AppData/Roaming/Typora/typora-user-images/image-20240818152646343.png) |
+| ![image](https://github.com/user-attachments/assets/c31e93b5-f31d-43c8-bb13-47841b69cf6a) | ![image](https://github.com/user-attachments/assets/c42e5bfc-a616-4429-ac06-9c08d5dfcf73) |
 
 
 

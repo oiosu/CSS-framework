@@ -26,7 +26,8 @@
 
 (2) error 해결하기
 
-![image-20240818183815535](../../../../AppData/Roaming/Typora/typora-user-images/image-20240818183815535.png)
+![image](https://github.com/user-attachments/assets/84d1d08b-b109-4478-8b31-2893651d6ec2)
+
 
 * 방법1
 
