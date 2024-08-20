@@ -4,7 +4,7 @@
 
 ##### (1) `main.jsx`
 
-```react
+```javascript
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter } from "react-router-dom";
@@ -28,7 +28,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 
 ##### (2) `App.jsx`
 
-```react
+```javascript
 import React from "react";
 import { Outlet, Route, Routes } from "react-router-dom";
 import MainPage from "./pages/MainPage";
@@ -77,7 +77,7 @@ export default App;
 
 (4) `App.jsx`
 
-```react
+```javascript
 import React from "react";
 import { Outlet, Route, Routes } from "react-router-dom";
 
