@@ -71,7 +71,7 @@ export default App;
 
 | 파일 구조                                                    | `rfce`                                                       |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| ![image-20240819104549488](../../../../AppData/Roaming/Typora/typora-user-images/image-20240819104549488.png) | ![image-20240819104617921](../../../../AppData/Roaming/Typora/typora-user-images/image-20240819104617921.png) |
+| ![image](https://github.com/user-attachments/assets/65576c64-f194-4969-bf73-0a83f090a99d)| ![image](https://github.com/user-attachments/assets/9594cb24-644c-4eed-977f-cdc327160143) |
 
 
 
